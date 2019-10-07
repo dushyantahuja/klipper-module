@@ -61,6 +61,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 | `showDetailsWhenOffline` | *Optional* Whether or not to hide the printer details when the printer is offline (file name, time, temps)
 | `interactive` | *Optional* Allow interactive control of the printer: choose files to print and upload new files. <br> *Default:* `true`. Set to `false` to hide the drop downs, if you don't use the Mirror to control anything.
 | `debugMode` | *Optional* Prints all messages received from the printer socket to the console log, for debugging only and developing more features.
+| `showOnlyWhilePrinting`| *Optional* Set to true so that the modules gets hidden when the printer is not printing. *Default:* `false`
 
 ## Development and Feature Requests
 
