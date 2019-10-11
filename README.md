@@ -25,7 +25,7 @@ If you have any suggest, please let me know [by an issue](https://github.com/Don
 
 ````shell
 cd ~/MagicMirror/modules
-git clone https://github.com/shbatm/octomirror-module.git
+git clone https://github.com/DongerZonie/octomirror-module.git
 cd octomirror-module
 npm install
 # A version of OctoPrint's JS Client Library is included by default, but it's
