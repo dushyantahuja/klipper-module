@@ -2,8 +2,8 @@
   "name": "octomirror-module",
   "version": "1.0.6",
   "description": "module for a Magic Mirror device that will interact with an Octoprint Instance",
-  "main": "octomirror-module.js",
-  "author": "Kieran Ramnarine",
+  "main": "klipper-module.js",
+  "author": "Dushyant Ahuja, Kieran Ramnarine",
   "contributor": "shbatm",
   "license": "MIT",
   "dependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shbatm/octomirror-module.git"
+    "url": "git+https://github.com/dushyantahuja/klipper-module.git"
   }
 }
