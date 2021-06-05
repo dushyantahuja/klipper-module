@@ -1,10 +1,10 @@
 {
-  "name": "octomirror-module",
-  "version": "1.0.6",
-  "description": "module for a Magic Mirror device that will interact with an Octoprint Instance",
+  "name": "klipper-module",
+  "version": "1.0",
+  "description": "module for a Magic Mirror device that will interact with Klipper, through moonraker; based on octomirror module",
   "main": "klipper-module.js",
   "author": "Dushyant Ahuja, Kieran Ramnarine",
-  "contributor": "shbatm",
+  "contributor": "dushyantahuja, shbatm",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.2.1",
