@@ -8,7 +8,7 @@
  * MIT Licensed.
  */
 
-Module.register("octomirror-module", {
+Module.register("klipper-module", {
     defaults: {
         updateInterval: 60 * 1000,
         retryDelay: 2500,
